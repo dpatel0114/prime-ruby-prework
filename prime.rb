@@ -1,6 +1,6 @@
 # Add  code here!
-def prime?(integer)
-  if n=
+def prime?(n)
+  if n==
     return True 
   if n%2
     return false
